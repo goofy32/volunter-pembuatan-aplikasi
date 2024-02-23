@@ -6,4 +6,5 @@ Silakan gunakan format berikut:<br>
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 
 Berikut adalah daftar Volunter yang diterima:
-* Tahrir Thariq Alfathan, [sekarangbelumada](https://google.com).
+* Who is this, [sekarangbelumada](https://google.com).
+* Tahrir Thariq Alfathan, [Linkedin](https://www.linkedin.com/in/tahrir-thariq-alfathan-b11a92296/).
